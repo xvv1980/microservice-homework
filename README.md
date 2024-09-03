@@ -14,3 +14,6 @@
 | Rate Limiting	|Yes	|Yes	|Yes	|Yes	|Yes	|Yes	|Yes
 | Data Transformation	|HTTP	|HTTP	|Extensive, customizable	|Yes	|No	|No	|No
 | Integrated Billing	|No	|No	|No	|Yes	|No	|No	|No
+
+Обоснование:
+   Так как предполагается что выбор нужно сделать для крупной компании, то можем условиться, что в этом случае у нас имеется продукт обрабатывающий большой поток запросов, а также есть отдел с разработчиками.
